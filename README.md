@@ -1,7 +1,7 @@
 # Ranked-1v1.LOL-Mods
 ## Installer and zip file source for the Ranked 1v1.LOL Mods
 
-# __Steps to download, __
+# Steps to download:
 1. Go to releases
 2. Download Installer.Bat 
 3. Run Installer.Bat
